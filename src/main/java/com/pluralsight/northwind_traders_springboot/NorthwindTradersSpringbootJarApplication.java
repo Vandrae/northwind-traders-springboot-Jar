@@ -1,4 +1,4 @@
-package com.pluralsight.northwind_traders_springboot.Jar;
+package com.pluralsight.northwind_traders_springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
